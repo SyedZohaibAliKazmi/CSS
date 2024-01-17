@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(209, 209, 209);
+}
+h2{
+    color: rgb(71, 71, 71);
+}
+a{
+    color: green;
+    background-color: rgb(244, 255, 205);
+}
+h1{
+    color: rgb(134, 0, 0);
+    background-color:rgb(255, 211, 218) ;
+}
+.link{
+    color: rgb(70, 70, 70);
+}
+#text{
+    color: rgb(160, 160, 0);
+    background-color: rgb(238, 238, 196);
+}
